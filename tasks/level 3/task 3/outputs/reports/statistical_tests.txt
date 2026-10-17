@@ -1,0 +1,17 @@
+CHI-SQUARE TEST RESULTS
+=============================================
+
+Service: Has Online delivery
+Chi-square statistic: 721.3787
+P-value: 4.85549e-156
+Degrees of freedom: 3
+All expected cell counts >= 5: True
+Conclusion: There is a statistically significant association between price range and service availability.
+
+Service: Has Table booking
+Chi-square statistic: 2821.5809
+P-value: 0
+Degrees of freedom: 3
+All expected cell counts >= 5: True
+Conclusion: There is a statistically significant association between price range and service availability.
+

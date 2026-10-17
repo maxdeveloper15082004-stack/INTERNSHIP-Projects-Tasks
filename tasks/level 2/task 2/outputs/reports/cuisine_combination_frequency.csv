@@ -1,0 +1,1340 @@
+Cuisine Combination,Restaurant Count
+North Indian,936
+"Chinese, North Indian",616
+"Mughlai, North Indian",395
+Chinese,354
+Fast Food,354
+"Chinese, Mughlai, North Indian",306
+Cafe,299
+Bakery,218
+"Bakery, Desserts",182
+"Chinese, Fast Food",159
+Street Food,149
+"Fast Food, Pizza",142
+"Chinese, North Indian, South Indian",137
+"Mithai, Street Food",134
+"Fast Food, North Indian",120
+"Bakery, Fast Food",117
+South Indian,112
+"Desserts, Ice Cream",109
+"Chinese, Continental, North Indian",107
+Mughlai,103
+"Chinese, Fast Food, North Indian",102
+"Burger, Fast Food",99
+Ice Cream,74
+Mithai,71
+"Bakery, Desserts, Fast Food",69
+"American, Fast Food, Healthy Food, Salad",63
+"Beverages, Fast Food",59
+"Fast Food, North Indian, Raw Meats",57
+Italian,54
+"Chinese, Thai",54
+Beverages,54
+"North Indian, South Indian",54
+Biryani,54
+Pizza,53
+Desserts,53
+Finger Food,49
+"Chinese, South Indian",45
+"Fast Food, Raw Meats",45
+"Italian, Pizza",43
+"Fast Food, Italian, Pizza",41
+"Continental, North Indian",41
+"Chinese, Continental, Italian, North Indian",37
+Mexican,36
+"North Indian, Street Food",34
+"Chinese, Italian, North Indian",33
+"Biryani, North Indian",33
+"Continental, Italian, North Indian",32
+American,31
+"Chinese, Fast Food, North Indian, South Indian",31
+"Fast Food, Street Food",27
+"Biryani, Mughlai",25
+"American, Fast Food",22
+"Burger, Desserts, Fast Food",22
+Continental,21
+"Cafe, Tea",21
+"Japanese, Sushi",20
+"Asian, Chinese, Thai",19
+"Cafe, Fast Food",19
+"Continental, Italian",19
+"Asian, Continental, North Indian",19
+"Bakery, Cafe",19
+Indian,18
+Asian,18
+"Chinese, Tibetan",18
+"Cafe, Continental, Italian",18
+Japanese,17
+"Fast Food, Italian",17
+"Fast Food, North Indian, South Indian",17
+"American, Burger",16
+Thai,16
+"Beverages, Desserts",16
+"Chinese, Mithai, North Indian, South Indian, Street Food",16
+"American, Burger, Fast Food",15
+"Chinese, Desserts, Fast Food, Mithai, North Indian, South Indian, Street Food",15
+Healthy Food,15
+Seafood,14
+"Asian, Chinese",14
+"Chinese, Continental, Mughlai, North Indian",14
+"Cafe, Chinese, North Indian",14
+"Mithai, North Indian, Street Food",14
+"Biryani, Mughlai, North Indian",14
+"Cafe, Italian",13
+"Cafe, Continental",13
+"Cafe, Desserts",12
+"Chinese, Fast Food, Italian, North Indian",12
+"Bakery, Chinese, Fast Food",12
+"Mithai, North Indian, South Indian, Street Food",12
+"Chinese, Japanese, Thai",11
+"Bakery, Cafe, Desserts",11
+Modern Indian,11
+"Chinese, North Indian, Street Food",11
+"Fast Food, South Indian",11
+"Desserts, Fast Food",10
+"Mithai, South Indian, Street Food",10
+"Mithai, North Indian",10
+"Continental, Healthy Food",10
+"Bengali, North Indian",10
+"Chinese, Fast Food, South Indian",10
+"Desserts, Street Food",10
+"Chinese, Fast Food, Mughlai, North Indian",10
+Brazilian,9
+Lebanese,9
+BBQ,9
+"Cafe, Chinese, Continental, Italian",9
+"Chinese, Mughlai, North Indian, South Indian",9
+"Fast Food, Tea",9
+"Chinese, Mughlai",9
+"Chinese, Fast Food, Mithai, North Indian, South Indian, Street Food",9
+"Chinese, Continental, North Indian, Thai",9
+"Chinese, Mithai, North Indian, South Indian",9
+"Bakery, Mithai",9
+"Japanese, Steak, Sushi",8
+"American, Seafood, Steak",8
+"European, Mediterranean, North Indian",8
+Kashmiri,8
+"Healthy Food, Salad",8
+"Fast Food, Mughlai, North Indian",8
+"Chinese, North Indian, Thai",8
+"Chinese, Street Food",8
+"Beverages, Chinese, Desserts, Fast Food, Mithai, North Indian, South Indian, Street Food",8
+"Finger Food, Italian, North Indian",8
+"Biryani, Hyderabadi",8
+"Bakery, Italian, Pizza",8
+"Beverages, Fast Food, Ice Cream",8
+French,7
+Steak,7
+"American, Breakfast",7
+"European, North Indian",7
+"Continental, European",7
+"Cafe, Italian, Pizza",7
+"Cafe, European",7
+"Chinese, Italian, Mexican, North Indian",7
+"Cafe, Chinese",7
+"Cafe, Chinese, Continental, North Indian",7
+"Chinese, Mithai, North Indian, Street Food",7
+"Asian, Continental, Italian, North Indian",7
+"Continental, European, North Indian",7
+"Chinese, Finger Food, North Indian",7
+European,7
+"Chinese, Italian, Mughlai, North Indian",7
+"Bakery, Chinese",7
+"Fast Food, Mithai",7
+"Cafe, Chinese, Italian",7
+Korean,6
+"Bar Food, Brazilian",6
+International,6
+"Healthy Food, Juices",6
+Burger,6
+Maharashtrian,6
+"American, Tex-Mex",6
+"European, Italian",6
+"Biryani, Chinese, Fast Food, North Indian",6
+"American, Continental, Italian",6
+"Mughlai, North Indian, South Indian",6
+"Biryani, Hyderabadi, North Indian",6
+Tea,6
+"Chinese, Seafood, Thai",6
+"Fast Food, Mughlai",6
+"Chinese, Continental, Fast Food, North Indian",6
+"American, Steak",5
+"Italian, Pizza, Sandwich",5
+"Pizza, Sandwich",5
+"American, Italian",5
+"Asian, Thai",5
+"African, Portuguese",5
+"Fast Food, North Indian, Street Food",5
+"American, Continental",5
+"North Indian, Rajasthani",5
+"Cafe, Chinese, Fast Food",5
+"Chinese, Fast Food, Italian",5
+"Italian, North Indian",5
+"Asian, Chinese, Japanese, Thai",5
+"Asian, Chinese, Japanese, Malaysian, Thai, Vietnamese",5
+Bengali,5
+"Chinese, North Indian, South Indian, Street Food",5
+"Beverages, Healthy Food",5
+"Kerala, South Indian",5
+"Cafe, Chinese, Continental",5
+"Chinese, Continental",5
+"Cafe, Fast Food, North Indian",5
+Kerala,5
+"Chinese, Seafood",5
+"North Indian, South Indian, Street Food",5
+"Chinese, Fast Food, North Indian, South Indian, Street Food",5
+"Chinese, Mithai",5
+"Desserts, Fast Food, Ice Cream",5
+Sushi,4
+"Arabian, Lebanese",4
+"American, Burger, Sandwich",4
+Southern,4
+"American, Italian, Pizza",4
+"American, Bar Food",4
+Breakfast,4
+"American, BBQ, Steak",4
+"Japanese, Sushi, Thai",4
+"American, Southern",4
+"American, Mexican",4
+"Burger, Seafood, Steak",4
+"Indian, North Indian",4
+Rajasthani,4
+"Continental, Italian, Mexican, North Indian",4
+"Bakery, Cafe, Fast Food",4
+"Asian, Mediterranean, North Indian",4
+"Chinese, Italian, Mexican, North Indian, Thai",4
+"Chinese, Fast Food, Mithai, North Indian, South Indian",4
+"Fast Food, Mithai, North Indian, South Indian, Street Food",4
+"Cafe, Continental, Italian, Mexican",4
+"North Indian, Seafood",4
+"Chinese, Mithai, Street Food",4
+"Burger, Chinese, Fast Food",4
+Mediterranean,4
+"South Indian, Street Food",4
+"American, Asian, Continental, North Indian",4
+"Cafe, Fast Food, Italian",4
+"Awadhi, Mughlai, North Indian",4
+"Finger Food, North Indian",4
+"Chinese, Continental, Italian, Lebanese, Mediterranean, Thai",4
+"Asian, Continental, Mughlai, North Indian",4
+"Chinese, Fast Food, North Indian, Street Food",4
+"Bakery, Street Food",4
+"Chettinad, Chinese, North Indian, Seafood, South Indian",4
+"Chinese, Continental, Mexican, North Indian",4
+"Biryani, Chinese, North Indian",4
+Afghani,4
+Juices,4
+"Asian, North Indian",4
+"Cafe, Italian, Lebanese",4
+"Cafe, Continental, Italian, North Indian",4
+"Continental, Finger Food, North Indian",4
+"Cafe, Chinese, Desserts, Fast Food, Italian, Tea",4
+"Italian, Mediterranean",4
+Turkish,4
+"Beverages, Street Food",4
+"Chinese, European, Italian, North Indian",4
+"Continental, Italian, Mediterranean, North Indian",4
+"Continental, Fast Food, North Indian",4
+"Cafe, Continental, European, Italian",4
+"Cafe, Continental, Fast Food, Italian",4
+"Chinese, Fast Food, Thai",4
+"Cafe, Continental, North Indian",4
+"Asian, Sushi",4
+"Beverages, Ice Cream",4
+"Kebab, Turkish Pizza",4
+"Japanese, Korean",3
+"Asian, European",3
+Filipino,3
+Bar Food,3
+German,3
+"Bar Food, Pizza",3
+"American, Breakfast, Burger",3
+"Chinese, Sushi, Thai",3
+"Asian, Japanese",3
+"Italian, Mediterranean, Pizza",3
+"American, Bar Food, Pizza",3
+"American, Seafood",3
+"European, Italian, Mediterranean",3
+"Breakfast, Burger",3
+"Spanish, Tapas",3
+"Hawaiian, Seafood, Steak",3
+"American, Desserts",3
+"Indian, Pakistani",3
+"Chinese, Continental, Italian",3
+"Chinese, Continental, North Indian, South Indian",3
+"Hyderabadi, North Indian",3
+"Asian, European, North Indian",3
+"American, Italian, Mexican",3
+"Fast Food, Mexican",3
+"American, Burger, Mexican, Tex-Mex",3
+"Cafe, European, Italian",3
+"Cafe, Continental, Fast Food",3
+"Biryani, South Indian",3
+"Beverages, Desserts, Ice Cream",3
+"Chinese, North Indian, Raw Meats",3
+"Continental, Mughlai, North Indian",3
+"Beverages, Cafe",3
+Raw Meats,3
+"Mughlai, North Indian, Seafood",3
+"Continental, Finger Food, Italian",3
+"Chinese, Mughlai, North Indian, Seafood",3
+"Iranian, Parsi",3
+"Bakery, Beverages, Desserts",3
+"Chinese, Continental, Fast Food, Mexican",3
+"Continental, Fast Food",3
+"Beverages, Fast Food, Street Food",3
+"Burmese, Chinese, Japanese, Malaysian, Thai",3
+"Nepalese, Tibetan",3
+Lucknowi,3
+"Chinese, Japanese, Thai, Tibetan",3
+"Continental, Italian, Mexican",3
+"Chinese, Continental, Finger Food, Italian, North Indian",3
+"American, Chinese, Continental, North Indian",3
+"Italian, Mexican",3
+"American, Chinese, Italian, North Indian",3
+"Arabian, Lebanese, Mediterranean, Middle Eastern",3
+"Chinese, Japanese, Seafood",3
+"Assamese, Chinese",3
+"Cafe, Italian, North Indian",3
+"American, European",3
+"Beverages, Desserts, Fast Food",3
+"Cafe, Chinese, Fast Food, Italian",3
+"Asian, European, Mediterranean, North Indian",3
+"Arabian, Lebanese, Moroccan",3
+Gujarati,3
+"Chinese, Japanese",3
+"Fast Food, Turkish",3
+Bihari,3
+"Bakery, Chinese, Italian, Mexican",3
+Nepalese,3
+Naga,3
+"Biryani, Kerala",3
+"Asian, Fast Food, Italian, North Indian",3
+"Cafe, Chinese, Italian, North Indian",3
+"Chinese, Italian",3
+"Biryani, Fast Food, North Indian",3
+"Chinese, North Indian, Tibetan",3
+"Burger, Fast Food, Pizza",3
+"Continental, Fast Food, Italian",3
+"North Indian, Raw Meats",3
+"Chinese, Mediterranean, North Indian",3
+"Indonesian, Sunda",3
+British,3
+"Indian, Street Food",3
+"Filipino, Mexican",2
+"BBQ, Burger, Seafood",2
+"American, BBQ",2
+"Coffee and Tea, Sandwich",2
+"Breakfast, Sandwich",2
+"Asian, Japanese, Sushi",2
+"Bar Food, Burger",2
+Vietnamese,2
+Modern Australian,2
+"American, BBQ, Burger",2
+"Asian, Vietnamese",2
+"American, BBQ, Southern",2
+"Desserts, Sandwich",2
+"Chinese, Pizza",2
+Latin American,2
+"Seafood, Sushi",2
+"Desserts, Ice Cream, Pizza",2
+"Cajun, Sandwich, Seafood",2
+"Breakfast, Coffee and Tea",2
+"Mediterranean, Seafood",2
+Tapas,2
+"Latin American, Mexican, Southwestern",2
+"Burger, Pizza, Sandwich",2
+"Japanese, Seafood, Sushi",2
+"American, Italian, Seafood",2
+"Indian, Middle Eastern",2
+"Indian, South Indian",2
+"Chinese, Indian, North Indian",2
+"Continental, Indian",2
+"Burger, Cafe",2
+"American, Burger, Mexican",2
+"Arabian, Middle Eastern",2
+"Cafe, Continental, Italian, Mexican, North Indian",2
+"Fast Food, South Indian, Street Food",2
+"Chinese, Continental, Italian, Mexican, North Indian",2
+"Desserts, Juices",2
+"Bakery, North Indian, South Indian, Street Food",2
+"Chinese, Italian, Mexican",2
+"Asian, Continental",2
+"American, Cafe",2
+"Cafe, Continental, Desserts, Italian",2
+"Chettinad, South Indian",2
+"Cafe, Mexican",2
+"Beverages, Juices",2
+"Fast Food, Mithai, Street Food",2
+"Chinese, Mithai, South Indian, Street Food",2
+"Chinese, Continental, North Indian, Seafood",2
+"Continental, Goan, North Indian",2
+"Continental, Goan, North Indian, Seafood",2
+South American,2
+"Bengali, Seafood",2
+"Continental, North Indian, Thai",2
+"American, European, Mediterranean, North Indian",2
+"American, Cafe, Continental, Italian, North Indian, Seafood",2
+"Beverages, Salad",2
+"Beverages, Fast Food, North Indian",2
+"Continental, Healthy Food, Italian, Juices, Salad",2
+"American, Burger, Continental",2
+"Continental, European, Finger Food, North Indian",2
+"Bakery, Cafe, Italian",2
+"Italian, Mexican, North Indian",2
+"Asian, Chinese, Japanese, Korean",2
+"Chinese, Continental, Finger Food, North Indian",2
+Drinks Only,2
+"Gujarati, Rajasthani",2
+"American, European, Street Food",2
+"Cafe, North Indian",2
+"Bakery, Fast Food, Mithai",2
+"Chinese, Desserts, Fast Food, North Indian",2
+Oriya,2
+"Bakery, Chinese, North Indian",2
+"Modern Indian, North Indian",2
+"American, Continental, Italian, North Indian",2
+"Chinese, Continental, Mughlai, North Indian, Thai",2
+"Continental, Italian, Mughlai, North Indian",2
+"Afghani, North Indian",2
+"Chinese, Mithai, North Indian",2
+Goan,2
+"Awadhi, Lucknowi, Mughlai",2
+"Asian, Italian, Japanese, Thai",2
+"Cafe, Fast Food, Street Food",2
+"Asian, Chinese, Continental, Mediterranean, North Indian",2
+"Cafe, Fast Food, Italian, Mexican",2
+"Lucknowi, Mughlai",2
+"Cafe, Desserts, Italian",2
+"Continental, Italian, Lebanese, Mexican",2
+"Continental, North Indian, South Indian",2
+"Maharashtrian, North Indian",2
+"Continental, North Indian, Seafood",2
+Parsi,2
+"Bakery, Chinese, Desserts, Fast Food",2
+"Chinese, Fast Food, Pizza",2
+"Bengali, Chinese, North Indian",2
+"Desserts, Fast Food, Ice Cream, North Indian",2
+"Chinese, North Indian, Seafood",2
+"Kashmiri, North Indian",2
+North Eastern,2
+"Mughlai, Street Food",2
+"Bengali, Biryani, Mughlai, North Indian",2
+"Fast Food, Italian, North Indian",2
+"American, Continental, Italian, Mexican, North Indian",2
+"Chinese, Continental, Italian, Mughlai, North Indian, Thai",2
+"Continental, Finger Food, Italian, North Indian",2
+"Kashmiri, Mughlai, North Indian",2
+"French, Italian",2
+"Cafe, Continental, Healthy Food",2
+"Beverages, Chinese",2
+"Chinese, Continental, Italian, Lebanese, North Indian",2
+"Chinese, Naga",2
+"Mediterranean, Middle Eastern, North Indian",2
+"Chinese, Continental, Healthy Food, North Indian",2
+"Fast Food, Healthy Food",2
+"European, Italian, North Indian",2
+"Continental, Italian, Mediterranean",2
+"American, Fast Food, Italian",2
+"Chinese, Continental, Thai",2
+"Continental, Healthy Food, Juices, Salad",2
+"Continental, Mediterranean, North Indian",2
+"Beverages, Chinese, Fast Food, Mithai, North Indian, South Indian, Street Food",2
+"American, Bakery, Continental, Italian",2
+"Continental, Italian, Mediterranean, North Indian, Spanish",2
+Hyderabadi,2
+"Chinese, South Indian, Street Food",2
+"American, Chinese, North Indian",2
+"Asian, Chinese, Continental, Mughlai, North Indian",2
+"Chinese, Continental, Finger Food, Italian",2
+"Cafe, Desserts, Fast Food",2
+"American, Asian, Mediterranean",2
+"Bakery, Beverages, Fast Food",2
+Tibetan,2
+"American, Cafe, Italian",2
+"Chinese, Finger Food, Italian, North Indian",2
+"Chinese, European, North Indian",2
+"Chinese, Fast Food, Mithai, South Indian",2
+"Bakery, Fast Food, Pizza",2
+"American, Italian, Mexican, North Indian, Tex-Mex",2
+"Chinese, Italian, North Indian, Thai",2
+"Chinese, Italian, Lebanese, Mexican, North Indian",2
+"Chinese, Fast Food, Mithai, North Indian",2
+"Asian, Chinese, Seafood",2
+"Cafe, Chinese, Fast Food, Italian, North Indian",2
+"Cafe, Chinese, Continental, Italian, North Indian",2
+"Awadhi, North Indian",2
+"Italian, Seafood",2
+"Chinese, Italian, North Indian, South Indian",2
+"Desserts, European",2
+"Mithai, North Indian, South Indian",2
+"American, Cafe, Chinese, Italian, North Indian",2
+"Cafe, Chinese, Italian, Mexican, North Indian",2
+"Continental, French, North Indian",2
+"Burmese, Continental, Mughlai, North Indian",2
+"Seafood, Western",2
+"Kiwi, Seafood",2
+"Street Food, Taiwanese",2
+Malaysian,2
+"British, Cafe",2
+"Burger, Grill",2
+"Chinese, Dim Sum",2
+"British, Contemporary",2
+"Curry, Indian",2
+"American, Burger, Grill",2
+Pakistani,2
+Kebab,2
+"Desserts, Kebab, Turkish Pizza",2
+Restaurant Cafe,2
+"Desserts, French, Japanese",1
+"Asian, Filipino, Indian, Seafood",1
+"Asian, European, Filipino, Seafood",1
+"Asian, European, Indian",1
+"American, Desserts, Ice Cream",1
+"American, Cafe, Filipino, Italian",1
+"Cafe, Desserts, Korean",1
+"American, Bakery, Cafe, Italian",1
+"American, Japanese, Mediterranean, Seafood",1
+"American, Asian, Italian, Seafood",1
+"Fast Food, French",1
+Arabian,1
+"Brazilian, Cafe",1
+"Grill, Mexican",1
+"Latin American, Peruvian",1
+"American, Grill",1
+"Bar Food, Brazilian, Seafood",1
+"Bar Food, Beverages, Fast Food",1
+"Brazilian, Healthy Food, Juices, Pizza",1
+"Bakery, Brazilian, Sandwich",1
+"Brazilian, Seafood",1
+"BBQ, Steak",1
+"Beverages, International",1
+"Beverages, Brazilian, French",1
+"Brazilian, Grill",1
+"BBQ, Brazilian, Grill",1
+"Burger, Gourmet Fast Food",1
+"Brazilian, Italian",1
+"Brazilian, Mineira",1
+"Brazilian, North Eastern",1
+"Bar Food, Beverages, Brazilian",1
+"Asian, Chinese, Vegetarian",1
+"Bar Food, Pizza, Sandwich",1
+"Bar Food, Steak, Tapas",1
+"Chinese, Seafood, Vegetarian",1
+"Bar Food, Seafood, Tapas",1
+"American, Breakfast, Diner",1
+"Bar Food, Steak",1
+"American, Southern, Southwestern",1
+"Breakfast, Burger, Sandwich",1
+"International, Southern, Vegetarian",1
+Sandwich,1
+"Mexican, Spanish",1
+"International, Southern",1
+"Argentine, Desserts, Latin American",1
+"Chinese, Steak",1
+"American, Caribbean, Seafood",1
+"International, Tapas, Vegetarian",1
+"Desserts, Sandwich, Southern",1
+"Breakfast, French",1
+"Desserts, Italian, Pizza",1
+"Bar Food, Sandwich, Seafood",1
+"Mexican, Southwestern, Sushi",1
+"Burger, Seafood",1
+"European, Spanish",1
+"Latin American, Steak",1
+"Italian, Seafood, Vegetarian",1
+"Sushi, Thai",1
+"Japanese, Sushi, Teriyaki",1
+"American, Mediterranean, Seafood",1
+"Breakfast, Diner",1
+"American, International, Sushi",1
+"Mediterranean, Tapas, Vegetarian",1
+"American, Breakfast, Desserts",1
+"American, Cajun, Seafood",1
+"Bar Food, Burger, Southern",1
+"Japanese, Steak",1
+"Breakfast, Diner, Southern",1
+"Seafood, Steak, Vegetarian",1
+"BBQ, Southern",1
+"American, Tapas",1
+"Canadian, Chinese",1
+"Mexican, Tex-Mex",1
+"BBQ, Breakfast, Southern",1
+"American, Japanese, Sushi",1
+"American, Diner, Southern",1
+"Indian, Mediterranean, Middle Eastern",1
+"Sushi, Teriyaki",1
+"Burger, Pizza",1
+"American, Breakfast, Greek",1
+"American, French",1
+"American, Bar Food, BBQ",1
+"BBQ, Burger, Desserts",1
+"American, Coffee and Tea",1
+"BBQ, Cajun, Caribbean",1
+"Asian, Sushi, Thai",1
+"Latin American, Mexican",1
+"Asian, Bubble Tea, Vegetarian, Vietnamese",1
+"Burger, Desserts, Vegetarian",1
+"Breakfast, Mexican, Southwestern",1
+"Coffee and Tea, Modern Australian, Tea",1
+"American, BBQ, Seafood",1
+"International, Pizza",1
+"Breakfast, Pizza",1
+"American, Burger, Cafe, Pizza",1
+"Modern Australian, Tea",1
+"Australian, Cafe",1
+"American, Sandwich, Seafood",1
+"American, Burger, Cajun",1
+"Bar Food, Seafood, Vegetarian",1
+"BBQ, Sandwich",1
+"American, European, Sandwich",1
+"German, Ice Cream",1
+"Burger, German, Sandwich",1
+"Cafe, Coffee and Tea, Modern Australian",1
+"Cafe, Fusion, Italian",1
+"Breakfast, Modern Australian",1
+"Burger, Coffee and Tea, Modern Australian",1
+"Burger, Desserts, Sandwich",1
+"Coffee and Tea, Cuban, Latin American",1
+"Bar Food, Burger, Desserts",1
+"Desserts, Greek, Sandwich",1
+"Greek, Mediterranean, Vegetarian",1
+"American, Chinese, Sushi",1
+"Pizza, Sandwich, Vegetarian",1
+"American, Greek, Seafood",1
+"Bar Food, Modern Australian",1
+"Coffee and Tea, Modern Australian",1
+"American, International, Southwestern",1
+Hawaiian,1
+"American, Salad, Sandwich",1
+Irish,1
+"New American, Tapas",1
+"Brazilian, Steak",1
+Caribbean,1
+"Asian, Latin American, Vegetarian",1
+"American, Sandwich, Tea",1
+"American, BBQ, Sandwich",1
+Cajun,1
+"Cajun, Soul Food, Southern",1
+"Mediterranean, Turkish",1
+"American, Breakfast, Vegetarian",1
+Pub Food,1
+"Cafe, Coffee and Tea, Sandwich",1
+"Mexican, Southwestern, Tex-Mex",1
+"Bar Food, Burger, Steak",1
+"Italian, Pizza, Seafood",1
+"European, International, Tapas",1
+"American, Seafood, Sushi",1
+"Caribbean, Seafood, Steak",1
+"Burger, Sandwich, Seafood",1
+"Caribbean, Seafood",1
+Greek,1
+"Breakfast, Coffee and Tea, Modern Australian",1
+"American, Greek",1
+"American, Pizza",1
+"Asian, Sushi, Vegetarian",1
+"Indian, International, Vegetarian",1
+"Desserts, Thai",1
+New American,1
+"Indian, Persian",1
+"American, Hawaiian",1
+"Asian, Breakfast, Hawaiian",1
+"Hawaiian, Seafood",1
+"American, Asian, Burger",1
+"Asian, European, Seafood",1
+"American, Breakfast, Hawaiian",1
+"Desserts, Ice Cream, Sandwich",1
+"International, Mediterranean, Sandwich",1
+"American, Bar Food, Sandwich",1
+"Breakfast, Vegetarian",1
+"Breakfast, Cajun",1
+"Breakfast, Diner, Sandwich",1
+"Coffee and Tea, Desserts",1
+"Pizza, Seafood, Steak",1
+"Cafe, Sandwich, Southern",1
+"American, Seafood, Southern",1
+"Chinese, Continental, Singaporean",1
+"European, French, Mediterranean",1
+"Bakery, Cafe, French, Italian",1
+"American, Japanese, Singaporean",1
+"Chinese, Indian, Malay, Seafood, Singaporean",1
+"Asian, Continental, Seafood",1
+"Cantonese, Chinese, Dim Sum, Seafood",1
+"Australian, German, Singaporean",1
+"Fast Food, Fusion, Western",1
+"American, Bakery, Burger, European, Fusion",1
+"Cafe, Greek, Spanish, Turkish",1
+"Asian, Vegetarian, Vietnamese",1
+"American, Desserts, Diner",1
+"Cajun, Caribbean, Mexican",1
+"Asian, Thai, Vegetarian",1
+"BBQ, Caribbean, Seafood",1
+"Bar Food, British, Sandwich",1
+"American, Desserts, Steak",1
+"Breakfast, Spanish, Tapas",1
+"Deli, Italian",1
+"Sandwich, Seafood, Steak",1
+"European, German",1
+"Breakfast, Mexican",1
+"Bar Food, Desserts",1
+"International, Italian, Southern",1
+"Mexican, Vegetarian",1
+"Seafood, Steak",1
+"Cuban, Spanish",1
+"Australian, Modern Australian",1
+Australian,1
+"Seafood, Southern",1
+"Bar Food, Burger, Vegetarian",1
+"Fast Food, Seafood",1
+"Greek, Italian",1
+"Coffee and Tea, Mediterranean",1
+"Australian, Coffee and Tea, Tapas",1
+"Italian, Pizza, Vegetarian",1
+"Beverages, Coffee and Tea, Desserts",1
+"Sandwich, Sushi, Tapas",1
+"Burger, Greek, Sandwich",1
+"Arabian, Middle Eastern, Turkish",1
+"Chinese, Indonesian, Japanese, Thai, Vietnamese",1
+"Biryani, Indian, Mughlai, North Indian",1
+"Asian, Filipino, Japanese",1
+"American, Mexican, Seafood",1
+"Afghani, Hyderabadi, Indian, Pakistani",1
+"Arabian, Lebanese, Middle Eastern",1
+"European, Italian, Mediterranean, Thai",1
+"Indian, Rajasthani",1
+"Indian, International",1
+"Indian, North Indian, Street Food",1
+"Asian, Indian",1
+"Chinese, Goan, Indian, North Indian",1
+"Chinese, Indian, North Indian, South Indian",1
+"Biryani, Indian, Mughlai, South Indian",1
+"Indian, Mughlai, Pakistani",1
+"Afghani, Chinese, Indian, Pakistani",1
+"Arabian, Bakery, Middle Eastern",1
+"Gujarati, Mughlai, Rajasthani",1
+"Desserts, South Indian",1
+"Chinese, Italian, Mediterranean, Mexican, North Indian, Thai",1
+"Continental, Desserts, Ice Cream",1
+"Beverages, Desserts, Italian, Pizza",1
+"Cafe, Continental, Desserts",1
+"Asian, Continental, North Indian, South Indian",1
+"Chinese, Continental, Desserts, Fast Food, North Indian, Sandwich",1
+"Beverages, Cafe, Desserts, Pizza",1
+"Beverages, Burger, Continental, Healthy Food, Italian, Mediterranean, North Indian",1
+"Asian, Italian, North Indian, South Indian",1
+"American, Armenian, Cafe, Continental, Fast Food",1
+"Biryani, Chinese, Continental, North Indian",1
+"Cafe, Mughlai, North Indian",1
+"American, Cafe, Chinese, Continental, Italian, North Indian",1
+"American, Burger, Cafe",1
+"Chinese, Desserts, Italian, North Indian, Street Food",1
+"Continental, Finger Food, Italian, North Indian, South Indian, Thai",1
+"Fast Food, Mexican, Tex-Mex",1
+"Arabian, Asian, Continental, Mediterranean, North Indian",1
+"Cafe, Charcoal Grill, Steak",1
+"Bakery, Cafe, Italian, Mexican",1
+"Beverages, Chinese, Mexican, North Indian",1
+"Cafe, Chinese, Fast Food, Seafood",1
+"Chinese, Continental, North Indian, Pizza",1
+"Asian, Burmese, Chinese, Japanese, Malaysian, Thai",1
+"Continental, Finger Food, Italian, Thai",1
+"Burger, Chinese, Continental, Italian, North Indian",1
+"Beverages, Burger, Desserts, Fast Food",1
+"Desserts, European, Italian",1
+"Arabian, Chinese, North Indian",1
+"Cafe, Continental, European, Greek, Italian, Mediterranean, Spanish",1
+"Arabian, Asian, Mediterranean, North Indian",1
+"Chettinad, North Indian, South Indian",1
+"Continental, Desserts, Fast Food, Indian",1
+"Chinese, Continental, Malaysian, North Indian, Thai",1
+"North Indian, Parsi",1
+"Desserts, Italian, North Indian",1
+"Chinese, Desserts, Fast Food, North Indian, South Indian, Street Food",1
+"Chinese, Thai, Tibetan",1
+"Burger, Desserts",1
+"Asian, Chinese, Mediterranean, North Indian",1
+"Gujarati, North Indian, Rajasthani, South Indian",1
+"Beverages, Desserts, Fast Food, Ice Cream",1
+"American, Cafe, Italian, Mexican, Thai",1
+"Chinese, Fast Food, North Indian, Raw Meats",1
+"Cafe, Italian, Salad",1
+"Bakery, Chinese, Mithai, South Indian, Street Food",1
+"Bakery, Cafe, Desserts, Fast Food",1
+"Cafe, French, Italian",1
+"Continental, Goan, Italian, North Indian, Seafood",1
+"French, Seafood",1
+"Chinese, Continental, Goan, North Indian, Seafood",1
+"Chinese, Goan, North Indian, Seafood",1
+"Continental, Goan, Italian",1
+"Chinese, Goan, North Indian",1
+"Chinese, Goan, Seafood",1
+"Goan, North Indian, Seafood",1
+"Continental, European, German, Seafood",1
+"Kerala, Seafood, South Indian",1
+"Desserts, Pizza",1
+"Chinese, Mughlai, South Indian",1
+"Italian, Lebanese, Pizza",1
+"Chinese, Japanese, North Indian, Thai",1
+"Belgian, Cafe",1
+"Continental, Mediterranean",1
+"Asian, Chinese, Continental, European, Italian, North Indian",1
+"Asian, Burmese",1
+"Arabian, Lebanese, North Indian, Persian",1
+"Chinese, Japanese, Sushi",1
+"American, Mediterranean, Mexican, North Indian",1
+"American, Chinese, Italian",1
+"Continental, European, Finger Food, Italian, North Indian",1
+"Chinese, Continental, Italian, Japanese, North Indian, Thai",1
+"Burmese, Chinese, Thai",1
+"Asian, Continental, Italian, Pizza",1
+"Cafe, Street Food",1
+"Greek, Mughlai, North Indian",1
+"American, Healthy Food, Mexican",1
+"Bakery, Fast Food, Italian, Lebanese",1
+"Chinese, Mediterranean, Mughlai, North Indian, Thai",1
+"Continental, Healthy Food, North Indian",1
+"Beverages, Healthy Food, Juices",1
+"Biryani, Lucknowi, North Indian",1
+"Japanese, Korean, Tibetan, Vietnamese",1
+"Asian, Chinese, North Indian",1
+"Continental, European, Healthy Food, Salad",1
+"Cafe, Continental, Italian, Pizza",1
+"Cafe, Italian, Mexican",1
+"Greek, Mediterranean",1
+"American, European, North Indian",1
+"Beverages, North Indian, Street Food",1
+"Bakery, Cafe, European, Italian",1
+"American, Continental, Finger Food, Italian, North Indian",1
+"Hyderabadi, Mughlai",1
+"Kashmiri, Mughlai",1
+"Chinese, Italian, Mexican, Pizza",1
+"American, Italian, North Indian",1
+"Asian, Bakery",1
+"Bengali, Chinese, Fast Food",1
+"Mughlai, North Indian, Pakistani",1
+"American, Italian, Japanese, Seafood, Thai",1
+"American, Bakery, Cafe, Desserts, Italian",1
+"Mughlai, North Indian, Rajasthani, South Indian, Street Food",1
+"Lebanese, North Indian",1
+"Continental, Finger Food",1
+"Chinese, Korean",1
+"Bakery, Beverages",1
+"Beverages, Healthy Food, North Indian",1
+"Continental, Fast Food, North Eastern, South Indian",1
+"Continental, Italian, Lebanese, Mexican, Thai",1
+"Biryani, Fast Food, Healthy Food, Pizza",1
+"American, Asian, Biryani, North Indian",1
+"Asian, Chinese, Continental, European, North Indian",1
+"Burger, Continental, European, Finger Food, North Indian, Pizza",1
+"African, Lebanese, Portuguese",1
+"Asian, Seafood",1
+"Bihari, Lucknowi, North Indian",1
+"Asian, Italian, Kerala, North Indian, Parsi",1
+"Bakery, Cafe, Desserts, Healthy Food, Italian",1
+"Asian, Italian, North Indian",1
+"Asian, Continental, Fast Food",1
+"Continental, Healthy Food, Italian, Salad",1
+"Chinese, Healthy Food, North Indian, South Indian",1
+"Bakery, Chinese, Healthy Food, North Indian, South Indian",1
+"Continental, Healthy Food, North Indian, Salad",1
+"Healthy Food, North Indian",1
+"Bakery, Bengali, Desserts, North Indian, South Indian",1
+"Chinese, Indonesian, Malaysian, Thai",1
+"Asian, North Indian, Rajasthani",1
+"Bengali, Fast Food",1
+"Healthy Food, Italian, North Indian, Salad",1
+"Beverages, Desserts, South Indian",1
+"American, Goan, Portuguese",1
+"Beverages, Continental, Healthy Food, Italian, Juices, Lebanese, Salad",1
+"Burger, Cafe, Pizza",1
+"Burger, Charcoal Grill, Italian",1
+"Fast Food, Healthy Food, Salad",1
+"Asian, Chinese, European, Mediterranean, North Indian, Pizza",1
+"Bakery, Mithai, Street Food",1
+"American, Cafe, Continental, Italian",1
+"Cafe, Continental, Desserts, Italian, Juices, Salad",1
+"Asian, Chinese, Tibetan",1
+"Charcoal Grill, Chinese, Continental, Fast Food, Mexican",1
+"Arabian, Chinese, Continental, North Indian, Thai",1
+"Andhra, Asian, Continental, Goan, Seafood",1
+"Italian, Japanese, North Indian",1
+"Andhra, Bengali, Chettinad, Chinese, Mughlai, North Indian",1
+"Cafe, Desserts, Mexican",1
+"Awadhi, Hyderabadi",1
+"Greek, Lebanese",1
+"Cafe, Chinese, Italian, Mexican",1
+"Cafe, Continental, Italian, Street Food",1
+"Bakery, Cafe, Continental, Italian, Mexican",1
+"Continental, Italian, Lebanese, North Indian, Thai",1
+"Asian, Modern Indian",1
+"Cafe, Continental, Italian, Japanese",1
+"Beverages, Chinese, Continental, Desserts, Mexican, North Indian, Rajasthani",1
+"Chinese, Continental, North Indian, Rajasthani",1
+"Bakery, Continental, Italian",1
+"Cafe, Fast Food, Italian, Mexican, North Indian",1
+"Chinese, Continental, Desserts, Italian, Mexican, North Indian",1
+"Continental, Finger Food, Italian, Mediterranean, North Indian",1
+"Chinese, Continental, Indian",1
+"Beverages, Cafe, Continental, Desserts, Ice Cream, Italian",1
+"Arabian, Lebanese, Mediterranean, Mughlai, North Indian",1
+"Chinese, Continental, Kerala, North Indian",1
+"Biryani, Fast Food",1
+"Chinese, North Indian, South Indian, Thai",1
+"Fast Food, Kerala",1
+"Chinese, Continental, Kerala, North Indian, Seafood, South Indian",1
+"Biryani, Chinese, North Indian, Seafood",1
+"Biryani, Chinese, Kerala, South Indian",1
+"Cafe, Desserts, Italian, Mediterranean, Seafood",1
+"Bakery, Cafe, Continental, Desserts",1
+"American, Italian, Mediterranean, Mexican",1
+"Asian, Continental, Middle Eastern",1
+"Cafe, Chinese, Desserts, North Indian",1
+"Biryani, Chinese, Mughlai, North Indian",1
+"Asian, Continental, North Indian, Seafood",1
+"American, Italian, Mediterranean",1
+"American, Italian, Lebanese",1
+"Cafe, Chinese, Continental, North Indian, Thai",1
+"Asian, Chinese, Continental, North Indian, South Indian, Thai",1
+"Chinese, Continental, Mediterranean",1
+"Bakery, Cafe, Continental, Italian",1
+"Bakery, Chinese, Continental, Italian",1
+"Chinese, European",1
+"Chinese, Mangalorean",1
+"Chinese, Mangalorean, Mughlai, North Indian",1
+"American, Burger, Healthy Food, Salad",1
+"Bakery, Cafe, Chinese, Continental, Desserts, Finger Food, Italian, North Indian",1
+"American, British, Continental, Italian, Japanese, Mexican",1
+"Burger, Desserts, European, Finger Food, Italian, North Indian, Pizza, Street Food",1
+Andhra,1
+"Andhra, Mughlai, North Indian",1
+"Italian, North Indian, South Indian",1
+"Beverages, Cafe, Continental, European",1
+"Continental, South Indian",1
+"Continental, Fast Food, Tea",1
+"Chinese, Malwani, North Indian, Seafood",1
+Cuisine Varies,1
+"Andhra, Continental, Goan, Kerala, Seafood, Thai",1
+"Continental, Fast Food, North Indian, South Indian, Street Food",1
+"Chinese, Mughlai, North Indian, Pizza",1
+"Mughlai, North Indian, Street Food",1
+"Andhra, Goan, Hyderabadi, Seafood, South Indian",1
+"Bakery, Burger, Continental, Desserts, Fast Food, Pizza",1
+"Bakery, Burger, Continental, Desserts, Pizza",1
+"Bakery, Desserts, Fast Food, Mithai",1
+"Indonesian, Malaysian",1
+"Chinese, Japanese, Malaysian, Thai, Vietnamese",1
+"Bakery, Chinese, Continental, Fast Food, Italian",1
+"Cafe, Healthy Food, North Indian",1
+"Chettinad, Chinese, North Indian, South Indian",1
+"Gujarati, North Indian, South Indian",1
+"Ice Cream, Mithai, North Indian, Street Food",1
+"Fast Food, Mughlai, North Indian, South Indian",1
+"Bengali, Continental, Mughlai, North Indian",1
+"American, Continental, Fast Food",1
+"Continental, Italian, North Indian, Tex-Mex",1
+"Lucknowi, North Indian",1
+"Asian, Continental, Indian, Italian",1
+"Burger, Finger Food, Juices",1
+"Chinese, Italian, Mediterranean, North Indian",1
+"Chettinad, Chinese, Italian, Lebanese, Mexican, North Indian",1
+"Goan, Seafood",1
+"Cafe, Fast Food, Italian, Japanese, North Indian",1
+"Arabian, Mexican",1
+"Bengali, Mughlai, North Indian, South Indian",1
+"European, Finger Food, North Indian",1
+"American, Continental, North Indian, Tex-Mex",1
+"Asian, Continental, Mediterranean, North Indian",1
+"American, Asian, Continental, Italian, North Indian",1
+"Chinese, Italian, Japanese, Seafood",1
+"American, Asian, Italian, North Indian",1
+"American, Chinese, Italian, Middle Eastern, North Indian",1
+"Chinese, Continental, Mediterranean, North Indian",1
+"Continental, Healthy Food, Italian",1
+"Asian, Fast Food, Mediterranean, North Indian",1
+"Continental, Finger Food, Italian, Mexican, North Indian",1
+"American, Burger, Continental, Mexican, Pizza, Tex-Mex",1
+"Afghani, Mughlai, North Indian",1
+"Continental, European, Seafood",1
+"Asian, Continental, Sushi",1
+"Chinese, Hyderabadi, Kashmiri, North Indian",1
+"Chinese, Continental, South Indian",1
+"American, Cafe, Continental, Italian, Lebanese, Mexican",1
+"Desserts, Ice Cream, North Indian",1
+"Chinese, European, Italian, Mexican, North Indian",1
+"Asian, Chinese, Malaysian, Thai",1
+"Arabian, Lebanese, Mediterranean",1
+"American, Desserts, Fast Food",1
+"Afghani, Chinese, Mughlai",1
+"Chinese, Lucknowi",1
+"Gujarati, North Indian, Rajasthani",1
+"Andhra, South Indian",1
+"European, Italian, Sushi",1
+"Chinese, Kashmiri, Mughlai",1
+"Chinese, Healthy Food",1
+"American, Burger, Fast Food, Italian, Pizza",1
+"British, Chinese, Italian",1
+"American, Finger Food, Mexican",1
+"Asian, Continental, European, Italian, North Indian, Pizza",1
+"Bakery, Desserts, Ice Cream",1
+"American, Italian, Mughlai, North Indian",1
+"Chinese, Fast Food, Lebanese",1
+"Mediterranean, Middle Eastern, Turkish",1
+"Chinese, Naga, Seafood, Thai",1
+"Healthy Food, Juices, Salad",1
+"Cafe, Continental, Mexican",1
+"Continental, Kerala",1
+"Asian, Burger, Continental, Italian, Mediterranean",1
+"Continental, Tex-Mex",1
+"Chinese, Italian, Middle Eastern, North Indian, Thai",1
+"American, Asian, European, North Indian",1
+"American, British, Continental",1
+"Chinese, Continental, Mediterranean, Thai",1
+"Chinese, Kashmiri, Korean, North Indian, Thai",1
+"Chinese, Continental, Japanese, North Indian, Thai",1
+"Chinese, Japanese, Seafood, Sushi, Thai",1
+"Finger Food, Italian",1
+"Bakery, Healthy Food",1
+"Asian, Chinese, Japanese, Korean, Thai",1
+"Afghani, Mughlai",1
+"Bihari, Fast Food, North Indian",1
+"Cafe, Desserts, Healthy Food, Juices",1
+"Mediterranean, North Indian, Spanish",1
+"European, Lebanese, Mexican, North Indian",1
+"American, European, Italian, North Indian, Thai",1
+"Bakery, Chinese, Fast Food, Mithai, North Indian, South Indian",1
+"Bakery, Beverages, Desserts, Fast Food",1
+"Cafe, Continental, Lebanese, North Indian",1
+"Desserts, Ice Cream, North Indian, Street Food",1
+"Chinese, Continental, Fast Food, Italian, North Indian",1
+"Beverages, Cafe, Chinese, Continental, Desserts, Italian",1
+"Chinese, Fast Food, Ice Cream",1
+"Desserts, Mithai",1
+"Chinese, European, Italian, North Indian, Thai",1
+"Fast Food, Tibetan",1
+"European, North Indian, South Indian",1
+"Fast Food, Gujarati, North Indian, Rajasthani",1
+"Chinese, Fast Food, Italian, Lebanese, Mexican, North Indian",1
+"American, Chinese, Italian, Lebanese, North Indian",1
+"Continental, Italian, Kashmiri, Moroccan, North Indian",1
+"Asian, Chinese, Japanese, Seafood, Thai, Vietnamese",1
+"Cafe, Desserts, Tea",1
+"Cafe, European, French, Italian",1
+"Continental, European, Pizza",1
+"American, Asian, European, Italian, Lebanese, Mexican, North Indian",1
+"Bakery, Chinese, Mithai, North Indian, South Indian",1
+"Biryani, Lucknowi",1
+"Bakery, Fast Food, Street Food",1
+"Bakery, Chinese, Fast Food, North Indian, South Indian",1
+"Raw Meats, Street Food",1
+"Cafe, French",1
+"Bakery, Burger, Chinese, Fast Food",1
+"Korean, Mughlai, Nepalese, North Indian, Tibetan",1
+"Chinese, Continental, Mexican",1
+"Cafe, Pizza",1
+"Continental, European, French, North Indian",1
+"Ice Cream, Street Food",1
+"French, Japanese",1
+"American, Bakery, Burger, Deli, Italian, Pizza, Sandwich",1
+"Desserts, Middle Eastern, Turkish",1
+"European, Lebanese, Mediterranean",1
+"Continental, Fast Food, North Indian, South Indian",1
+"Bakery, Fast Food, North Indian",1
+"Chinese, Continental, Fast Food, Mughlai, North Indian",1
+"Nepalese, South Indian",1
+"North Indian, South Indian, Tibetan",1
+"Cafe, North Eastern",1
+"Cafe, Tibetan",1
+"Asian, Continental, Italian, Mexican, North Indian",1
+"Cafe, Desserts, Italian, Mexican, Salad",1
+"Chinese, Japanese, Tibetan",1
+"Japanese, Thai",1
+"Chettinad, Chinese, North Indian, Seafood",1
+"Asian, Chinese, Continental, North Indian, Thai",1
+"Bakery, Cafe, Parsi",1
+"Healthy Food, Japanese, Sushi",1
+"Cafe, Fast Food, Healthy Food",1
+"American, Asian, Mexican, North Indian, South Indian",1
+"Asian, Chinese, North Indian, Thai",1
+"Mexican, North Indian",1
+"Bakery, Chinese, Mithai, North Indian, South Indian, Street Food",1
+"Bakery, Mithai, North Indian",1
+"Beverages, Burger, Chinese, Continental, Healthy Food, Italian, North Indian, Salad",1
+"Mithai, South Indian",1
+"Asian, Mughlai, North Indian",1
+"Chinese, North Eastern, North Indian",1
+"Chinese, Fast Food, Street Food",1
+"North Eastern, North Indian",1
+"Awadhi, Mughlai",1
+"Fast Food, Mithai, South Indian",1
+"Bakery, Pizza",1
+"Chinese, Pizza, South Indian",1
+"Fast Food, Italian, South Indian",1
+"Desserts, South Indian, Street Food",1
+"Bengali, Chinese",1
+"Chinese, North Eastern",1
+"Chinese, Indian, Mithai, North Indian, South Indian, Street Food",1
+"Finger Food, Italian, Middle Eastern",1
+"Arabian, Lebanese, Moroccan, Turkish",1
+"Chinese, Indian",1
+"Continental, Fast Food, Italian, North Indian",1
+"Asian, Chinese, Fast Food, Italian, Japanese, North Indian",1
+"Asian, Cafe, Fast Food, Italian",1
+"Chinese, Fast Food, Italian, North Indian, Tibetan",1
+"Chinese, Italian, North Indian, Seafood, Thai",1
+"Chinese, Fast Food, Mithai, Street Food",1
+"Bakery, Continental, Fast Food, Italian",1
+"Bakery, Ice Cream",1
+"Fast Food, Mithai, North Indian",1
+"Chinese, Desserts, Fast Food",1
+"Continental, Italian, Lebanese, North Indian",1
+"Fast Food, Hyderabadi",1
+"Bihari, North Indian, South Indian",1
+"Asian, Japanese, North Indian",1
+"Beverages, Fast Food, Tea",1
+"Chinese, Continental, Italian, North Indian, Thai",1
+"Chinese, Lebanese",1
+"Chinese, Italian, Lebanese, Mexican, North Indian, Thai",1
+"Armenian, Fast Food, Mughlai",1
+"Chinese, Mithai, South Indian",1
+"Armenian, Mughlai, North Indian",1
+"Bakery, Italian, North Indian, South Indian",1
+"Chinese, Continental, North Indian, Street Food",1
+"Beverages, North Indian",1
+"Chinese, Continental, Fast Food, Italian",1
+"Fast Food, Maharashtrian, North Indian",1
+"Cafe, Fast Food, Pizza",1
+"Bakery, Cafe, North Indian, South Indian",1
+"Bakery, Beverages, Chinese, Desserts, Fast Food, Street Food",1
+"Cafe, Chinese, European, Mexican, North Indian, Thai",1
+"American, Asian, European, Seafood",1
+"Beverages, Healthy Food, Italian, Juices",1
+"Lebanese, Mughlai, North Indian",1
+"Asian, Continental, Fast Food, North Indian",1
+"Asian, Cafe, Italian, North Indian",1
+"Chinese, Mangalorean, North Indian",1
+"Gujarati, Kashmiri, Maharashtrian, Mughlai, North Indian, South Indian",1
+"Asian, Chinese, Continental, North Indian",1
+"Asian, Continental, Italian, Mediterranean",1
+"Asian, Continental, Modern Indian",1
+"Chinese, Fast Food, Ice Cream, North Indian, South Indian",1
+"American, Continental, European, Mediterranean, North Indian",1
+"American, Continental, North Indian",1
+"Naga, Tibetan",1
+"Beverages, Continental, Pizza",1
+"Bakery, Chinese, Naga, Tibetan",1
+"Chinese, Fast Food, Tibetan",1
+"Cafe, Korean",1
+"North Indian, Tibetan",1
+"American, Cafe, Continental, Nepalese",1
+"Chinese, Continental, Fast Food",1
+Assamese,1
+"Continental, North Indian, Pizza",1
+"Asian, Chinese, Continental, Mediterranean",1
+"Cafe, Continental, Italian, Lebanese, Mediterranean",1
+"Arabian, North Indian",1
+"Chinese, Continental, Fast Food, Mexican, North Indian",1
+"American, Cafe, Chinese, Continental, Italian, Mexican",1
+"Beverages, Fast Food, Italian",1
+"American, Chinese, Continental, Italian, North Indian",1
+"Cafe, Chinese, Fast Food, North Indian",1
+"Chinese, Continental, Fast Food, North Indian, Thai",1
+"Cafe, Chinese, Continental, Italian, Mexican, North Indian",1
+"Cafe, Chinese, Continental, Mexican, North Indian",1
+"Beverages, Desserts, Korean",1
+"American, Indonesian, Italian, Mexican, Spanish, Thai, Vietnamese",1
+"Bakery, Chinese, North Indian, South Indian",1
+"Cafe, Chinese, North Indian, South Indian",1
+"Continental, North Indian, Salad",1
+"Asian, Chinese, Thai, Vietnamese",1
+"Desserts, North Indian",1
+"Ice Cream, Pizza",1
+"Finger Food, Pizza, Salad",1
+"Chinese, Continental, European, North Indian, Thai",1
+"Afghani, Arabian, North Indian, Pakistani",1
+"Asian, Burmese, Chinese, Indonesian, Malaysian, Thai",1
+"Bakery, Desserts, Healthy Food",1
+"Asian, Continental, European, North Indian",1
+"Continental, Lebanese, North Indian",1
+"Continental, Italian, North Indian, South Indian",1
+"American, Cafe, Tea",1
+"Italian, Spanish",1
+"American, Finger Food",1
+"European, Finger Food",1
+"Kerala, Malaysian, Sri Lankan, Thai, Vietnamese",1
+"Finger Food, Italian, Middle Eastern, Mughlai",1
+"European, Mediterranean",1
+"Malaysian, Thai",1
+"Afghani, Fast Food, North Indian",1
+"Bakery, Chinese, Mughlai, North Indian",1
+"Continental, Mexican",1
+"Chinese, Continental, Italian, Lebanese, Mexican, North Indian",1
+"Cafe, Continental, Italian, Mediterranean, Mexican",1
+"Bakery, Burger, Desserts, Fast Food, Finger Food, Pizza",1
+"Fast Food, Lebanese, North Indian",1
+Awadhi,1
+"Italian, Lebanese, North Indian",1
+"Asian, Chinese, Japanese, Korean, Seafood, Thai",1
+"American, Cafe, Continental",1
+"Asian, Chinese, Japanese",1
+"American, Continental, Italian, Mediterranean",1
+"Continental, Mediterranean, Mexican",1
+"Fast Food, Juices",1
+"Continental, Mexican, North Indian",1
+"Hyderabadi, Mughlai, North Indian",1
+"Chinese, Continental, Mughlai",1
+"Fast Food, Italian, Mexican",1
+"American, Chinese, Continental, Fast Food, Italian, Mexican",1
+"Chinese, Continental, Indian, North Indian",1
+"North Indian, Pizza",1
+"Chinese, Continental, North Indian, South Indian, Street Food",1
+"Biryani, Chinese, Fast Food, Mughlai, North Indian",1
+"Chinese, Desserts, Fast Food, Ice Cream, North Indian",1
+"Asian, Cafe, Continental, Healthy Food, Italian",1
+"Continental, Desserts, Italian, Lebanese, Mediterranean, North Indian, South Indian",1
+"Bengali, North Indian, Seafood",1
+"Continental, Salad",1
+"Healthy Food, North Indian, Rajasthani",1
+"Street Food, Tibetan",1
+"Chinese, Mughlai, North Indian, Raw Meats",1
+"Asian, Continental, Fast Food, Italian",1
+"Beverages, Desserts, Fast Food, Italian",1
+"Chinese, Kashmiri",1
+"Bakery, North Indian",1
+"Lucknowi, Mughlai, North Indian",1
+"Chinese, Kashmiri, North Indian",1
+"Beverages, Mithai",1
+"Bakery, Beverages, North Indian, South Indian",1
+"Beverages, Fast Food, Juices",1
+"Bakery, Desserts, Fast Food, North Indian",1
+"Continental, Lebanese, Mexican",1
+"Middle Eastern, North Indian, Pizza",1
+"Bakery, Cafe, Chinese, Continental, Italian, Mughlai, North Indian, Pizza",1
+"Beverages, Desserts, Juices",1
+"Bakery, French",1
+"Asian, Chinese, Indonesian, Korean, Malaysian, Thai, Vietnamese",1
+"Italian, North Indian, Seafood, South Indian",1
+"Continental, French, Goan, Mangalorean",1
+"Continental, North Eastern, North Indian",1
+"Finger Food, Greek, Italian, Spanish",1
+"Charcoal Grill, European, Indonesian, Italian, North Indian, Thai",1
+"Asian, Desserts, European, Finger Food, Mediterranean, Modern Indian",1
+"Continental, German, Italian",1
+"American, Mexican, Tex-Mex",1
+"Continental, European, Italian, North Indian",1
+"Italian, Lebanese",1
+"Continental, Desserts, Italian, North Indian",1
+"Italian, Mediterranean, Mexican",1
+"Chinese, Continental, Italian, Mexican",1
+"Italian, Lebanese, Mexican",1
+"Asian, Italian, Mexican, North Indian",1
+"Mexican, Mughlai, North Indian, Thai",1
+"American, Fast Food, Japanese, North Indian",1
+"Burmese, Chinese, Japanese, Thai, Tibetan, Vietnamese",1
+"American, Cafe, Fast Food",1
+"Andhra, Biryani, Chinese, North Indian, Seafood",1
+"Andhra, Chinese, North Indian",1
+"BBQ, Cafe, Cajun, Chinese, Mughlai",1
+"Chinese, Continental, Italian, North Indian, South Indian",1
+"Andhra, Biryani",1
+"Biryani, Chinese, Continental, North Indian, Seafood",1
+"Biryani, Burger, Pizza",1
+"American, Continental, North Indian, Thai",1
+"Cafe, Coffee and Tea, Western",1
+"Beverages, Cafe, Desserts",1
+"Indonesian, Peranakan",1
+"Cafe, Coffee and Tea, Indonesian, Italian, Western",1
+"Bakery, Desserts, Western",1
+"Asian, Indonesian, Western",1
+"Asian, Cafe, Western",1
+"Japanese, Ramen, Sushi",1
+"Cafe, Western",1
+"French, Western",1
+Indonesian,1
+"Asian Fusion, Cafe",1
+"European, Kiwi",1
+"Asian, Asian Fusion, Filipino, Fusion, Malaysian, Pub Food, Thai",1
+"Asian, Seafood, Sushi",1
+"Cafe, Kiwi",1
+"Cafe, Desserts, Ice Cream, Kiwi",1
+"Cafe, European, Mexican",1
+"Fish and Chips, Vietnamese",1
+"French, Kiwi",1
+"Cafe, European, Mediterranean",1
+"British, Steak",1
+Contemporary,1
+"Italian, Latin American",1
+"Greek, Mediterranean, Middle Eastern",1
+"Cafe, Desserts, Ice Cream",1
+"Cafe, Scottish",1
+"British, French",1
+"Cafe, Indian",1
+"Cantonese, Japanese, Sushi",1
+"British, Scottish, Seafood",1
+"British, Scottish, Steak",1
+"Curry, Indian, Pakistani",1
+"Cafe, Curry, Indian",1
+"Cafe, Curry, Indian, North Indian",1
+"Japanese, Ramen",1
+"American, Desserts, Fast Food, Steak",1
+"Grill, Seafood, Steak",1
+"Afghani, Curry, Indian, Pakistani",1
+"British, Burger, Cafe",1
+"Indian, Seafood",1
+"Grill, Indian",1
+"American, Argentine",1
+"Contemporary, European, Mediterranean",1
+"Bakery, Chinese, Indian, Kerala",1
+"Chinese, North Indian, Turkish",1
+"Arabian, Bakery, Desserts, European, Japanese",1
+"Grill, Pizza",1
+"Cafe, Patisserie",1
+"Bakery, Cafe, Tea, Vegetarian",1
+"Asian, Grill, Seafood, Sushi",1
+"Burger, Fast Food, Grill",1
+"Asian, Japanese, Seafood, Sushi",1
+"Bakery, Cafe, Desserts, Patisserie",1
+"African, Seafood, Sushi",1
+"Cafe, Mediterranean",1
+"Contemporary, European",1
+"Asian, Sushi, Tapas",1
+"European, Pizza",1
+"Burger, Finger Food, Pizza",1
+"Beverages, Continental, Desserts, Grill, Ice Cream, International, Seafood, South African",1
+African,1
+"Burger, Cafe, European, Grill, South African, Tapas",1
+"Belgian, Beverages, Contemporary, Desserts, Finger Food, Healthy Food, International, Seafood",1
+"American, Beverages, Burger",1
+"American, Burger, Finger Food, German, Street Food",1
+"Asian, Desserts, Durban, Indian, International",1
+"Bakery, Cafe, Deli, European, Italian, Pizza",1
+"Contemporary, Grill, Italian, Steak, Sushi",1
+"Cafe, Grill",1
+"European, South African, Steak",1
+"Desserts, Italian, Mediterranean, Sushi",1
+"Burger, Continental, Finger Food, Grill, Seafood, South African",1
+"Beverages, Cafe, Desserts, Healthy Food, South African, Spanish, Tapas",1
+"Burger, Continental, Grill, Street Food",1
+"Contemporary, Italian",1
+"Burger, Contemporary, European",1
+"Beverages, Desserts, Grill, Italian, Pizza, Seafood",1
+"Burger, Grill, Steak, Sushi, Tapas",1
+"European, South African",1
+"Chinese, North Indian, Sri Lankan",1
+"American, Cafe, Continental, Sri Lankan",1
+Sri Lankan,1
+"Malaysian, North Indian, Sri Lankan",1
+"Beverages, Cafe, Fast Food",1
+"American, Continental, Seafood",1
+"American, Beverages, Fast Food, Steak",1
+"Coffee and Tea, Patisserie",1
+"Izgara, Kebab",1
+World Cuisine,1
+"Italian, Mexican, World Cuisine",1
+"D�_ner, Kebab, Turkish Pizza",1
+Turkish Pizza,1
+"Desserts, Restaurant Cafe",1
+"Desserts, Restaurant Cafe, Turkish",1
+"B�_rek, Desserts",1
+"Burger, Izgara",1
+"Cafe, Patisserie, World Cuisine",1
+"Italian, World Cuisine",1

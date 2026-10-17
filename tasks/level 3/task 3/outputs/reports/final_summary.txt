@@ -1,0 +1,26 @@
+PRICE RANGE AND SERVICE AVAILABILITY ANALYSIS
+==================================================
+
+Total restaurants analyzed: 9551
+
+SERVICE AVAILABILITY BY PRICE RANGE
+ Price range  Restaurant_Count  Online_Delivery_Percentage  Table_Booking_Percentage
+           1              4444                       15.77                      0.02
+           2              3113                       41.31                      7.68
+           3              1408                       29.19                     45.74
+           4               586                        9.04                     46.76
+
+Online delivery percentage at lowest price range: 15.77%
+Online delivery percentage at highest price range: 9.04%
+Table booking percentage at lowest price range: 0.02%
+Table booking percentage at highest price range: 46.76%
+
+Does online delivery increase from the lowest to highest price category? False
+Does table booking increase from the lowest to highest price category? True
+
+Has Online delivery: p-value = 4.85549e-156
+There is a statistically significant association between price range and service availability.
+
+Has Table booking: p-value = 0
+There is a statistically significant association between price range and service availability.
+

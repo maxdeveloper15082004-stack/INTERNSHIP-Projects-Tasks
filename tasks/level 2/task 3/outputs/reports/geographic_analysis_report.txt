@@ -1,0 +1,62 @@
+GEOGRAPHIC RESTAURANT ANALYSIS REPORT
+==================================================
+
+Restaurants analyzed: 9054
+Unique cities: 141
+
+TOP 10 CITIES
+--------------------------------------------------
+                  City  Restaurant Count
+             New Delhi              5240
+               Gurgaon              1070
+                 Noida               987
+             Faridabad               229
+             Ghaziabad                25
+             Ahmedabad                21
+               Augusta                20
+Cedar Rapids/Iowa City                20
+              Auckland                20
+             Abu Dhabi                20
+
+TOP 10 LOCALITIES
+--------------------------------------------------
+     City        Locality  Restaurant Count
+New Delhi Connaught Place               122
+New Delhi  Rajouri Garden                98
+New Delhi  Defence Colony                85
+New Delhi   Malviya Nagar                84
+New Delhi       Pitampura                83
+New Delhi        Shahdara                81
+New Delhi  Rajinder Nagar                79
+New Delhi    Satyaniketan                75
+    Noida       Sector 18                75
+New Delhi      Karol Bagh                75
+
+DBSCAN CLUSTERING SUMMARY
+--------------------------------------------------
+Number of clusters: 45
+Restaurants assigned to clusters: 8052
+Restaurants classified as noise: 1002
+Neighborhood distance: 2.0 km
+Minimum samples: 10
+
+TOP 10 LARGEST GEOGRAPHIC CLUSTERS
+--------------------------------------------------
+ Cluster  Restaurant_Count  Center_Latitude  Center_Longitude
+      17              5498        28.582955         77.160513
+      16              1700        28.606268         77.326001
+      15               229        28.435588         77.311751
+      27                59        28.467099         77.515625
+      28                20        28.503919         77.408075
+      32                20        21.168827         72.787681
+      38                20        55.953480         -3.192000
+      36                19       -41.291887        174.777302
+       6                18         1.291632        103.852944
+      30                18        11.931032         79.833017
+
+KEY FINDINGS
+--------------------------------------------------
+City with the most restaurants: New Delhi
+Restaurant count: 5240
+Most represented locality: Connaught Place, New Delhi
+Restaurant count: 122

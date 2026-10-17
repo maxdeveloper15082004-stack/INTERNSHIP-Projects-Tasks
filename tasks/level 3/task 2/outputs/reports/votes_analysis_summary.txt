@@ -1,0 +1,35 @@
+RESTAURANT VOTES ANALYSIS SUMMARY
+========================================
+Total restaurants analyzed: 9551
+Highest votes: 10934
+Lowest votes: 0
+Average votes: 156.91
+Average rating: 2.67
+Pearson correlation: 0.3137
+Spearman correlation: 0.8462
+
+TOP 10 RESTAURANTS
+          Restaurant Name  Votes  Aggregate rating
+                     Toit  10934               4.8
+                 Truffles   9667               4.7
+         Hauz Khas Social   7931               4.3
+                Peter Cat   7574               4.3
+AB's - Absolute Barbecues   6907               4.6
+          Barbeque Nation   5966               4.9
+              Big Brewsky   5705               4.5
+AB's - Absolute Barbecues   5434               4.9
+          The Black Pearl   5385               4.1
+                    BarBQ   5288               4.2
+
+BOTTOM 10 RESTAURANTS
+   Restaurant Name  Votes  Aggregate rating
+  Cantinho da Gula      0               0.0
+     The Chaiwalas      0               0.0
+Fusion Food Corner      0               0.0
+     Punjabi Rasoi      0               0.0
+     Baskin Robbin      0               0.0
+            Angaar      0               0.0
+             TcozY      0               0.0
+     The Retriever      0               0.0
+    Chill 'N Grill      0               0.0
+Punjabi Restaurant      0               0.0

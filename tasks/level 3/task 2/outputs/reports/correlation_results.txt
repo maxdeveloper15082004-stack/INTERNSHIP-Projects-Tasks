@@ -1,0 +1,11 @@
+VOTES AND RATINGS CORRELATION ANALYSIS
+=============================================
+Restaurants analyzed: 9551
+Pearson correlation: 0.3137
+Pearson p-value: 0.000000
+Spearman correlation: 0.8462
+Spearman p-value: 0.000000
+Pearson relationship direction: positive
+Approximate Pearson strength: moderate
+Correlation does not establish causation.
+Pearson statistically significant at 5%: yes

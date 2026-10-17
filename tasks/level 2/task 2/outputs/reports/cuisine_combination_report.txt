@@ -1,0 +1,58 @@
+CUISINE COMBINATION ANALYSIS REPORT
+=============================================
+
+Total restaurants analyzed: 9542
+Overall average restaurant rating: 2.67
+
+TOP 10 MOST COMMON CUISINE COMBINATIONS
+---------------------------------------------
+           Cuisine Combination  Restaurant Count
+                  North Indian               936
+         Chinese, North Indian               616
+         Mughlai, North Indian               395
+                       Chinese               354
+                     Fast Food               354
+Chinese, Mughlai, North Indian               306
+                          Cafe               299
+                        Bakery               218
+              Bakery, Desserts               182
+            Chinese, Fast Food               159
+
+TOP 10 HIGHEST-RATED COMBINATIONS
+(At least 10 restaurants)
+---------------------------------------------
+       Cuisine Combination  Restaurant Count  Average Rating  Median Rating
+             Modern Indian                11        4.345455           4.30
+                    Indian                18        4.250000           4.30
+                   Seafood                14        4.114286           4.15
+Cafe, Continental, Italian                18        4.111111           4.15
+                      Thai                16        4.100000           4.25
+          American, Burger                16        4.068750           4.10
+           Japanese, Sushi                20        4.060000           3.90
+    Bakery, Cafe, Desserts                11        4.027273           4.00
+      Asian, Chinese, Thai                19        3.773684           3.80
+   Chinese, Japanese, Thai                11        3.672727           3.70
+
+TOP 10 INDIVIDUAL CUISINES
+---------------------------------------------
+     Cuisine  Restaurant Count
+North Indian              3960
+     Chinese              2733
+   Fast Food              1986
+     Mughlai               994
+     Italian               764
+      Bakery               744
+ Continental               736
+        Cafe               703
+    Desserts               653
+South Indian               636
+
+KEY FINDINGS
+---------------------------------------------
+Most common combination: North Indian
+Restaurant count: 936
+Highest-rated combination with sufficient data: Modern Indian
+Average rating: 4.35
+Restaurant count: 11
+Overall average rating: 2.67
+This is a descriptive comparison, not evidence that cuisine causes higher ratings.

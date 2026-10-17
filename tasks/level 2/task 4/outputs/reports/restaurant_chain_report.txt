@@ -1,0 +1,47 @@
+RESTAURANT CHAIN ANALYSIS REPORT
+=============================================
+
+Total restaurant records analyzed: 9551
+Potential restaurant chains identified: 734
+
+TOP 10 CHAINS BY NUMBER OF OUTLETS
+---------------------------------------------
+ Restaurant Name  outlet_count
+ Cafe Coffee Day            83
+  Domino's Pizza            79
+          Subway            63
+Green Chick Chop            51
+      McDonald's            48
+       Keventers            34
+       Pizza Hut            30
+           Giani            29
+  Baskin Robbins            28
+ Barbeque Nation            26
+
+TOP 10 CHAINS BY AVERAGE RATING
+---------------------------------------------
+          Restaurant Name  average_rating  rated_outlets
+         Talaga Sampireun        4.900000              3
+AB's - Absolute Barbecues        4.825000              4
+                  Chili's        4.580000              5
+                   Onesta        4.500000              3
+                Big Chill        4.475000              4
+              Food Scouts        4.433333              3
+               Farzi Cafe        4.366667              6
+          Barbeque Nation        4.353846             26
+             Punjab Grill        4.340000              5
+                Palmshore        4.300000              3
+
+TOP 10 CHAINS BY TOTAL VOTES
+---------------------------------------------
+          Restaurant Name  total_votes  outlet_count
+          Barbeque Nation        28142            26
+AB's - Absolute Barbecues        13400             4
+                Big Chill        10853             4
+               Farzi Cafe        10098             6
+                 Truffles         9682             2
+                  Chili's         8156             5
+             Joey's Pizza         7807             2
+          Big Yellow Door         7511             3
+          Saravana Bhavan         7238             3
+                Starbucks         7139            18

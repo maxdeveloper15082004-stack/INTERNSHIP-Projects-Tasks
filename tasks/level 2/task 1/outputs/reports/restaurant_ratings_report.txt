@@ -1,0 +1,54 @@
+RESTAURANT RATINGS ANALYSIS REPORT
+========================================
+
+Total restaurants analyzed: 9551
+Average votes per restaurant: 156.91
+
+RATING DISTRIBUTION
+----------------------------------------
+Rating 0.0: 2148 restaurants
+Rating 1.8: 1 restaurants
+Rating 1.9: 2 restaurants
+Rating 2.0: 7 restaurants
+Rating 2.1: 15 restaurants
+Rating 2.2: 27 restaurants
+Rating 2.3: 47 restaurants
+Rating 2.4: 87 restaurants
+Rating 2.5: 110 restaurants
+Rating 2.6: 191 restaurants
+Rating 2.7: 250 restaurants
+Rating 2.8: 315 restaurants
+Rating 2.9: 381 restaurants
+Rating 3.0: 468 restaurants
+Rating 3.1: 519 restaurants
+Rating 3.2: 522 restaurants
+Rating 3.3: 483 restaurants
+Rating 3.4: 498 restaurants
+Rating 3.5: 480 restaurants
+Rating 3.6: 458 restaurants
+Rating 3.7: 427 restaurants
+Rating 3.8: 400 restaurants
+Rating 3.9: 335 restaurants
+Rating 4.0: 266 restaurants
+Rating 4.1: 274 restaurants
+Rating 4.2: 221 restaurants
+Rating 4.3: 174 restaurants
+Rating 4.4: 144 restaurants
+Rating 4.5: 95 restaurants
+Rating 4.6: 78 restaurants
+Rating 4.7: 42 restaurants
+Rating 4.8: 25 restaurants
+Rating 4.9: 61 restaurants
+
+RATING RANGE DISTRIBUTION
+----------------------------------------
+0-1: 2148 restaurants (22.49%)
+1-2: 3 restaurants (0.03%)
+2-3: 1430 restaurants (14.97%)
+3-4: 4590 restaurants (48.06%)
+4-5: 1380 restaurants (14.45%)
+
+KEY FINDING
+----------------------------------------
+Most common rating range: 3-4
+Restaurants in this range: 4590
